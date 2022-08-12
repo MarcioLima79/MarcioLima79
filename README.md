@@ -31,4 +31,5 @@
 ![Spinner-1s-200px](https://user-images.githubusercontent.com/101565117/184012760-432b180c-d39c-48cd-815c-7155b4bd9819.gif)
 
 ---
+Github stats by [@anuraghzra](https://github.com/anuraghazra/github-readme-stats)
 
